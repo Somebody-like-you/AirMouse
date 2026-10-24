@@ -4,7 +4,7 @@ As the name implies, this mouse can be used witout any surface, it works by movi
 # Photo
 ![airmoues](./photos/airmouse.png)
 # Demo
-
+![Demo](./photos/demo.gif)
 # Items 
 
 mpu 6050: https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/
